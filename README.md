@@ -1,3 +1,3 @@
-# adv_basics_two
+# Expense Tracker
 
-A new Flutter project.
+A Basic Flutter project for tracking expenses.
